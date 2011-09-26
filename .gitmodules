@@ -1,0 +1,6 @@
+[submodule "lib/vendor/Monolog"]
+	path = lib/vendor/Monolog
+	url = git://github.com/Seldaek/monolog.git
+[submodule "lib/vendor/Logade"]
+	path = lib/vendor/Logade
+	url = git://github.com/sergeil/Logade.git
